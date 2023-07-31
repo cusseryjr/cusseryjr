@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Hi, I'm  Clifford! Dedicated cybersecurity analyst  <br/> <a ></a> <a </a></h1>
 
-<h2>👨‍💻 Cybersecurity analyst project:</h2>
+<h2>👨‍💻 My projects:</h2>
 
 - <b>Azure/Cloud projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/cusseryjr/Azure-soc)
