@@ -15,7 +15,7 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[email](cliffordussery@gmail.com)
+[email](https://www.linkedin.com/in/clifford-ussery-2a7373147/cliffordussery@gmail.com)
 
 [linkedin]: https://www.linkedin.com/in/clifford-ussery-2a7373147/
 
